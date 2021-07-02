@@ -15,6 +15,7 @@ I used the [Apache NetBeans IDE](https://netbeans.apache.org/) to write all the 
 - [x] First commits
 - [ ] Translate the problems descriptions to English
 - [ ] Update code to English (Change functions and variable names)
+- [ ] Change the default folder structure names
 - [ ] Get the missing problem descriptions with the teacher
 
 
