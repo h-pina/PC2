@@ -1,4 +1,4 @@
-Problema Proposto: 
+###### Enunciado do Problema Proposto: 
 
 Implemente em Java um sistema simples de leilão.
 
@@ -17,6 +17,7 @@ Um sistema de leilão funciona basicamente da seguinte maneira:
 - Um lance é caracterizado pela pessoa interessada e o valor do lance;
 - Uma pessoa é caracterizada pelo nome e o contato (e-mail ou telefone);
 - Um produto é caracterizado apenas por uma descrição e pelo maior lance recebido;
+
 Seu sistema deverá ser capaz de:
 - Inserir novos produtos para leilão organizados em lotes;
 - Listar os produtos disponíveis para leilão (com o maior lance já oferecido, caso houver);
