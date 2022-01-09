@@ -13,9 +13,8 @@ I used the [Apache NetBeans IDE](https://netbeans.apache.org/) to write all the 
 # To Do
 
 - [x] First commits
-- [ ] Translate the problems descriptions to English
-- [ ] Update code to English (Change functions and variable names)
-- [ ] Change the default folder structure names
-- [ ] Get the missing problem descriptions with the teacher
+- [ ] Fill missing problem descriptions 
+- [ ] Update codebase to English (Change functions and variable names)
+- [ ] Change the default netbeans folder structure to a cleaner structure
 
 
